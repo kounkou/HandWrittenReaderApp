@@ -1,17 +1,16 @@
-DevApp4Africa is a repository of ideas and applications to solve African problems encountered in a
-a specific sector, that is Economy, Education, Healthcare, transport, etc.
+## DevApp4Africa
 
-Template for submitting ideas
+Africa is a continent full of problems, yes problems... Problems down there are so complex that any serious African 
+developer should spend some time solving African problems to contribute to the development of our continent.
+DevApp4Africa is a repository of ideas and applications designed to solve African problems encountered in a
+a specific sector, that is Economy, Education, Healthcare, transport, and more.
 
-To submit an idea :
-
-- [ ] create an issue
-- [ ] provide details about the context of the project
-- [ ] provide examples if necessary
-
-Template for submitting application
+#### Template for submitting ideas
 
 - [ ] create an issue
-- [ ] provide details about the context of the project
-- [ ] provide examples if necessary
-- [ ] create a pull request with changes
+- [ ] provide details about the project
+- [ ] provide examples
+
+#### Contributing to an idea
+
+To contribute to an idea, submit a pull request to the project.

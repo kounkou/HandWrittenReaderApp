@@ -14,3 +14,14 @@ a specific sector, that is Economy, Education, Healthcare, transport, and more.
 #### Contributing to an idea
 
 To contribute to an idea, submit a pull request to the project.
+
+#### Github resources
+
+For a list of resources about github best practices, about 
+
+- [ ] coding rules
+- [ ] Integration process
+
+Please refere to my gitbook below :
+
+https://godfrain.gitbook.io/best-practices/

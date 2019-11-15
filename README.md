@@ -5,13 +5,13 @@ Template for submitting ideas
 
 To submit an idea :
 
--[ ] create an issue
--[ ] provide details about the context of the project
--[ ] provide examples if necessary
+- [ ] create an issue
+- [ ] provide details about the context of the project
+- [ ] provide examples if necessary
 
 Template for submitting application
 
--[ ] create an issue
--[ ] provide details about the context of the project
--[ ] provide examples if necessary
--[ ] create a pull request with changes
+- [ ] create an issue
+- [ ] provide details about the context of the project
+- [ ] provide examples if necessary
+- [ ] create a pull request with changes

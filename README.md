@@ -31,3 +31,10 @@ For a list of resources about github best practices, about
 Please refere to my gitbook below :
 
 [best practices](https://godfrain.gitbook.io/best-practices/)
+
+
+#### Contributors
+
+[<img alt="kounkou" src="https://avatars0.githubusercontent.com/u/2589171?s=460&v=4" width="117">](https://github.com/kounkou) |
+:---: |
+[kounkou](https://github.com/kounkou)
